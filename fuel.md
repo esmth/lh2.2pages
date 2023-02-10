@@ -7,3 +7,9 @@ The main fuel map is a 12bit 16x16 map with the x axis being RPM and y axis cyli
 * 0x300 - low 8 bits
 * 0x900 - high 2 bits
 
+## Decel Fuel Cut Off
+Above X RPM and Y temperature, when idle pin is low, the ECU will cut all fuel. 
+
+## Rev Limiter
+Engine speed limiter. Stock 6200RPM, cuts fuel instantly.
+

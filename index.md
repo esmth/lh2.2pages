@@ -5,6 +5,8 @@
 
 ## Software
 * [main fueling](fuel.md)
+* [idle control](idle.md)
+* [lambda feedback](lambda.md)
 
 ## Reference
 
