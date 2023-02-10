@@ -2,6 +2,7 @@
 ## Hardware
 * [Hardware overview](hardware.md)
 * [Air mass meter](amm.md)
+* [Pinout](pins.md)
 
 ## Software
 * [main fueling](fuel.md)
