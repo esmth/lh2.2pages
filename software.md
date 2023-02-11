@@ -20,20 +20,20 @@ Input from 0141 RPM IC
 ### Timer 0:
 Injector output
 Mode 0 (Interrupt on count)
-* CLK0
-* OUT0
-* GATE0
+* CLK0 - MCU ALE strobe (559khz)
+* OUT0 - Injector output
+* GATE0 - NC (tied high)
 
 ### Timer 1:
 Idle air control output
 Mode 3 (square wave generator)
-* CLK1
-* OUT1
-* GATE1
+* CLK1 - MCU ALE strobe (559khz)
+* OUT1 - IAC output
+* GATE1 - ?
 
 ### Timer 2:
 Air mass meter input from RCA 91535
 Mode 3 (square wave generator)
-* CLK2
-* OUT2
-* GATE2
+* CLK2 - RCA 91535
+* OUT2 - NC (floating)
+* GATE2 - NC (tied high)

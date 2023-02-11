@@ -5,6 +5,7 @@
 * 128 bytes data memory
 * 1 8bit timer
 * 1 interrupt
+* 8388608hz crystal
 
 ## digital Support
 Analog to digial converter: ADC0809
