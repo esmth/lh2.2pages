@@ -1,14 +1,10 @@
 # Hardware
 ## MCU
-intel MCS-48 8039
-
-4k bytes program memory
-
-128 bytes data memory 
-
-1 timer
-
-1 interrupt
+* intel MCS-48 8039
+* 4k bytes program memory
+* 128 bytes data memory
+* 1 8bit timer
+* 1 interrupt
 
 ## digital Support
 Analog to digial converter: ADC0809

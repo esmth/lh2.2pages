@@ -5,9 +5,14 @@
 * [Pinout](pins.md)
 
 ## Software
-* [main fueling](fuel.md)
-* [idle control](idle.md)
-* [lambda feedback](lambda.md)
+* [Software Overview](software.md)
+* [Main Fueling](fuel.md)
+* [Idle Control](idle.md)
+* [Lambda Feedback](lambda.md)
 
 ## Reference
+* MCS-48 User's Manual
+* ADC 0809 Datasheet
+* Intel 8253-compatible Datasheet
+* CA139 Datasheet
 
