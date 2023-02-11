@@ -3,6 +3,9 @@
 (insert photo)
 The main fuel map is a 12bit 16x16 map with the x axis being RPM and y axis cylinder load from the RCA chip. 
 
+## axis
+Location 0xb16 (load), 0xb24 (RPM)
+
 # location
 * 0x300 - low 8 bits
 * 0x900 - high 2 bits

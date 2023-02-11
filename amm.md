@@ -12,3 +12,5 @@ has a direct effect on the amount of fuel delivered inversely proportional to th
 ## Burn off function
 After a short operation, at key-off, the ECU will command the maf to burn off contaminants.
 
+## Load pulse
+A pulse proportioanl to cylinderload is output along with the injector pulse to the EZK.

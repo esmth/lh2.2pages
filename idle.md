@@ -1,7 +1,9 @@
 # Idle Control
 ## Valve 
 pin 1 - open?
+
 pin 2 - power 12v
+
 pin 3 - close?
 
 ## Cold Compensation
